@@ -1,6 +1,3 @@
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abhishekjainkarera" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abhishekjainkarera?trk=profile-badge">Abhishek Jain</a></div>
-              
-
 <h1 align="center">
 Hi, I'm Abhishek Jain!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
