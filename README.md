@@ -1,8 +1,9 @@
 <h1 align="center">
 Hi, I'm Abhishek Jain!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="yashitanamdeo" />-->
- <img src="https://gpvc.arturio.dev/007abhishek" alt="Profile views" align='right'/> <a href="https://github.com/007abhishek/007abhishek/"> </a> 
+ 
+ <img src="https://komarev.com/ghpvc/?username=007abhishek&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="007abhishek" />
+ <a href="https://github.com/007abhishek/007abhishek/">  </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
